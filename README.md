@@ -5,4 +5,4 @@ The mechanics of the calculator have been completely redesigned. Added difficult
 
 THE GAME IS STILL UNDER DEVELOPMENT. THE RELEASE WILL BE ON STEAM.
 ____
-#Current game version: 0.3.1
+# Current game version: 0.3.1
